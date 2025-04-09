@@ -1,0 +1,68 @@
+@import url("fonts.css");
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 20px;
+    background-color: rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-bottom: 15px;
+    box-shadow:inset 2px 2px 5px black,
+    inset -2px -2px 5px black;
+}
+
+label{
+    padding-top: 15px;
+    text-align: center;
+}
+
+input, textarea{
+    font-family: Dongle-Regular;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px black;
+    padding-left: 5px;
+}
+
+input{
+    height: 20px;
+}
+
+.form-enviar{
+    width: 75px;
+    height: 30px;
+    background: black;
+    color:aqua;
+    box-shadow: inset 1px 1px 5px aqua,
+    inset -1px -1px 5px aqua;
+}
+
+.form-enviar:hover{
+    background: black;
+    color:#EF49F2;
+    box-shadow: inset 1px 1px 5px #EF49F2,
+    inset -1px -1px 5px #EF49F2;
+}
+
+.form-box{
+    font-family: Dongle-Regular;
+    width: 35%;
+    padding: 30px;
+    border-radius: 15px;
+    background: linear-gradient(to top, #883DF2,#EF49F2);
+    backdrop-filter: blur(5px);
+    color: white;
+    text-shadow: 1px 2px black;
+    box-shadow: 5px 5px 12px black;
+    margin: 30px;
+}
