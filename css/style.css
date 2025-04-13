@@ -157,15 +157,19 @@ li{
 footer{
     background-color: rgb(0, 0, 0,0.7);
     color: white;
-    padding: 10px;
+    padding: 20px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     box-shadow: -2px -2px 5px black;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 }
 
 footer p{
-    font-size: 25px;
+    font-size: 28px;
+    text-align: center;
 }
 
 .personagens_box{
@@ -303,4 +307,19 @@ h3{
     border-radius: 4px;
     margin-bottom: 10px;
     box-shadow: 2px 2px 8px black;
+}
+
+.logo-link{
+    position: absolute;
+    left: 30px;
+}
+
+.logo-uniube{
+    margin-top: 15px;
+    width: 80px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 8px;
+    height: 30px;
+    box-shadow: inset 1px 1px 10px black;
 }
