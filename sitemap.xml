@@ -1,87 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/index.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/links.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/fotos.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/contato.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/niss.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/kyros.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/lora.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/silo.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/venomess.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/grendel.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/senja.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/wingrave.html</loc>
-    <lastmod>2025-06-16T20:18:41.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/index.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/links.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/fotos.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/contato.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/niss.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/kyros.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/lora.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/silo.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/venomess.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/grendel.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/senja.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brunolempp.github.io/trabalho-site/pages/personagens/wingrave.html</loc>
+  <lastmod>2025-06-16T20:20:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
